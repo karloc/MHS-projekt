@@ -1,0 +1,145 @@
+
+.rezultati-naslov{
+    font-size: 30px;
+    height: 50px;
+    display: inline-block;
+    
+    text-align: center;
+    vertical-align: top;
+    color: #185169 !important;
+    font-weight: bold;
+
+    
+}
+.div-naslov-brand {
+	display: inline-block;
+	padding-top: 0rem;
+	transform: translateY(-20%);
+
+}
+
+.div-naslov{
+    display: inline-block;   
+    vertical-align: top;
+    vertical-align: middle;
+    margin-right: 100px;
+    
+}
+.div-Naslovna-traka{
+    text-align: center;
+    height: 50px;
+    vertical-align: top;
+    
+
+}
+.vrsta-natjecanja-text{
+    width: 200px;
+    font-size: 20px;
+    margin-right: 10px;
+    text-align: center;
+}
+.datum1{
+
+    font-size: 20px;
+    text-align: center;
+}
+.slikaNK{
+    display: inline-block;
+    padding-top: 0rem;
+	transform: translateY(-20%);
+
+
+}
+.NK-naziv{
+    display: inline-block;
+    width: 100px;
+    text-align: center;
+    
+
+}
+.NK1{
+    width: 300px;
+    text-align: right;
+    display: inline-block;
+
+}
+.rez{
+    display: inline-block;
+}
+.div-rez{
+    display: inline-block;
+    margin-left: 20px;
+    margin-right: 20px;
+
+}
+.NK2{
+    width: 300px;
+    text-align: left;
+    display: inline-block;
+
+}
+.kolo1{
+    text-align: center;
+    height: 130px;
+    vertical-align: top;
+
+}
+
+.tablica-text{
+    width: 200px;
+    font-size: 20px;
+    margin-right: 10px;
+    text-align: center;
+    padding-top: 20px;
+    display: inline-block;
+    
+    
+
+}
+
+.content-table {
+    border-collapse: collapse;
+    margin: 25px 0;
+    font-size: 0.9em;
+    min-width: 400px;
+    border-radius: 5px 5px 0 0;
+    overflow: hidden;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+    display: inline-block;
+}
+.content-table thead tr {
+    background-color: #009879;
+    color: #ffffff;
+    text-align: left;
+    font-weight: bold;
+  }
+  
+  .content-table th,
+  .content-table td {
+    padding: 12px 15px;
+  }
+  
+  .content-table tbody tr {
+    border-bottom: 1px solid #dddddd;
+  }
+  
+  .content-table tbody tr:nth-of-type(even) {
+    background-color: #f3f3f3;
+  }
+  
+  .content-table tbody tr:last-of-type {
+    border-bottom: 2px solid #009879;
+  }
+  
+.content-table tbody tr.active-row {
+    font-weight: bold;
+    color: #009879;
+}
+  
+
+.tablica{
+    text-align: center;
+    height: 700px;
+    vertical-align: top;
+
+}

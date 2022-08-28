@@ -1,0 +1,89 @@
+@charset "utf-8";
+/* CSS Document */
+
+.btn-prihvati{
+	color:#fff;
+	background-color:#7388BC;
+	border-color:#7388BC}
+
+
+#tekst {
+	font-size: 1.5rem;
+	color: #f5951d;	
+}
+#tekst1 {
+	font-size: 1.5rem;
+	color: #185169;	
+}
+
+#tekst2 {
+	font-size: 1.5rem;
+	color: #fff;
+}
+
+.navbar-expand-lg{
+	  margin-left: 5rem !important;
+}
+
+.navbar-brand {
+	float: left;
+	padding-top: 0rem;
+	transform: translateY(-20%);
+
+}
+
+.nav-link.active{
+  color: #f5951d !important;
+  font-weight: bold;
+}
+.nav-link.active:hover{
+  border-color: #e9ecef #e9ecef #dee2e6 !important;
+  isolation: isolate;
+
+}
+
+#border {
+	border-top: 2px solid black;
+}
+
+.btn .btn-primary .btn-lg:active{
+	background-color: f5951d !important;
+}
+
+.gumbN {
+  background: #f5951d;
+  color: #FFF;
+  border: 1px solid;
+  padding: 0.2em 0.25em;
+  font-size: 1em;
+  transition: color 0.25s, border-color 0.25s, box-shadow 0.25s transform 0.25s;
+}
+
+.gumbN:hover {
+  background-color: #fcad49;
+  color: #FFF;
+  box-shadow: 0 0.5em 0.5em -0.4em #f1ff5c;
+  transform: translateY(-0.2em);
+  cursor: pointer;
+}
+
+#posalji {
+	float: right;
+}
+
+#pocetna {
+	max-width: 60%;
+	height: auto;
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+}
+
+#odmak {
+	padding-right: 2em;	
+}
+
+#odmakS {
+	padding-left: 2em;
+	padding-bottom: 1em;	
+}

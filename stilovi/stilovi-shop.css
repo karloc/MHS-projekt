@@ -1,0 +1,103 @@
+.webshop-naslov{
+    margin-top: 20px;
+    
+    font-size: 30px;
+    height: 50px;
+    display: inline-block;
+    text-align: center;
+    color: #f5951d !important;
+    font-weight: bold;
+    
+
+    
+}
+.ducan{
+    margin-left: 10px;
+}
+.podnaslov{
+    font-size: 20px;
+    height: 50px;
+    display: inline-block;
+    text-align: center;
+    vertical-align: top;
+
+}
+.pod{
+    display: block;
+    text-align: left;
+}
+.div-W-traka{
+    text-align: center;
+    height: 100px;
+    
+    margin-bottom: 20px;
+    background-color: #185169;
+
+}
+.animacija{
+    vertical-align: top;
+    display: inline-block;
+}
+
+
+
+.naziv{
+    margin-top: 40px;
+    text-align: center;
+    color: white;
+    cursor: pointer;
+    
+}
+.naziv:hover{
+    color: rgba(208, 102, 31, 0.805);
+}
+.o{
+    width: 500px;
+    color: white;
+    
+}
+.cijena{
+    margin-top: 5px;
+    text-align: right;
+    color: gold;
+}
+
+
+.opis-artikla{
+    display: inline-block;
+    margin-left: 30px; 
+
+}
+
+.artikl{
+    display: inline-block;
+    vertical-align: bottom;
+    text-align: center;
+    background-color: #185169;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+
+
+.artikl1{
+    display: inline-block;
+    vertical-align: bottom;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+
+
+
+.shopbutton{
+    border: none;
+}
+.shopbutton:active{
+    background-color: blue;
+}
+.fa-solid{
+    color: black;
+    
+}
