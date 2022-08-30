@@ -87,3 +87,24 @@
 	padding-left: 2em;
 	padding-bottom: 1em;	
 }
+
+
+
+#center{
+    width: fit-content;
+    align-items: center;
+    margin: auto;
+}
+
+#footer {
+	position: fixed;
+   	max-height: 70px;
+ 	bottom: 0px;
+    	left: 0px;
+   	right: 0px;
+    	margin-bottom: 0px;
+}
+
+.row {
+	width: 100%
+}
